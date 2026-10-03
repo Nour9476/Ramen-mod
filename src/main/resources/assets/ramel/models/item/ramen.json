@@ -1,0 +1,7 @@
+{
+  "parent": "ramel:custom/ramen",
+  "textures": {
+    "0": "ramel:block/ramen",
+    "particle": "ramel:item/t.r.ramel.i.t"
+  }
+}
